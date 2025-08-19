@@ -7,9 +7,9 @@ To foster collaboration and innovation among local public health departments in 
 We are a group of Epidemiologists from multiple counties across Washington working together to build a shared code resource hub to compliment the [WA Small Numbers Analysis and Language Guidelines](https://drive.google.com/file/d/1W6tiIJ6Mk08BvIpSNItlMKBN-hazOX8U/view).
 
 **For questions, ideas, or to request access, please contact us:**
-- [Jacob Armitage](jacob.armitage@co.thurston.wa.us) (Thurston)
-- [Trey Evans](trey.evans@kitsappublichealth.org) (Kitsap)
-- [Tyler Bonnell](Tyler.Bonnell@co.snohomish.wa.us) (Snohomish)
+- [Jacob Armitage](mailto:jacob.armitage@co.thurston.wa.us) (Thurston)
+- [Trey Evans](mailto:trey.evans@kitsappublichealth.org) (Kitsap)
+- [Tyler Bonnell](mailto:Tyler.Bonnell@co.snohomish.wa.us) (Snohomish)
 
 # What You'll Find Here 📦
 
