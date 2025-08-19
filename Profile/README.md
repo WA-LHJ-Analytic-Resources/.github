@@ -26,7 +26,7 @@ We are a group of Epidemiologists from multiple counties across Washington worki
 - **Collaborate:** Join discussions and help shape the direction of shared tools.
 
 # Governance & Contribution 📄
-We follow a collaborative governance model. Contributions are welcome from all local public health staff. Please review our CONTRIBUTING.md and CODE_OF_CONDUCT.md before submitting.
+We follow a collaborative governance model. Contributions are welcome from all local public health staff. Please review our [CONTRIBUTING.md](https://github.com/WA-LHJ-Analytic-Resources/Documents/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/WA-LHJ-Analytic-Resources/Documents/blob/main/CODE_OF_CONDUCT.md) before submitting.
 
 # Data Privacy 🔐
 No personally identifiable or protected health information (PHI) should be uploaded to this organization. All shared code should use simulated or de-identified data.
